@@ -1,0 +1,20 @@
+* {
+  margin: 15px;
+  padding: 10px;
+}
+
+.div1 {
+  color: blanchedalmond;
+  background-image: url("../img/banner.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Segoe UI";
+}
+
+.footer {
+  background-color: beige;
+  height: 60px;
+  margin: 0px;
+  padding: 0px;
+}
